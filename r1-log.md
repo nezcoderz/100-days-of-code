@@ -9,3 +9,4 @@ Life Science major. No prior experience with coding except from the occasional u
 Started #100DaysOfCode. Took this online course: https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/learn/lecture/22648019#overview and finished Sections 1 (Introduction) and 2 (How the internet works). 
 
 ### R1D2
+Learned about the difference between html, css, and javascript. Used sublime text and html to create a very simple website.
