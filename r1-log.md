@@ -10,3 +10,10 @@ Started #100DaysOfCode. Took this online course: https://www.udemy.com/course/th
 
 ### R1D2
 Learned about the difference between html, css, and javascript. Used sublime text and html to create a very simple website.
+
+### R1D3
+Learned about different HTML tags and completed the HTML course.
+
+### R1D4
+Started the CSS course and made improvements on a simple HTML website using CSS.
+
